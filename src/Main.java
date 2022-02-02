@@ -59,7 +59,7 @@ public class Main {
         System.out.println("Conteúdos Inscritos " + nomeDoDev + ": " + dev.getConteudosInscritos());
 
         dev.progredir();
-        dev.progredir();
+
         System.out.println("-");
         System.out.println("Conteúdos Inscritos " + nomeDoDev + ": " + dev.getConteudosInscritos());
         System.out.println("Conteúdos Inscritos " + nomeDoDev + ": " + dev.getConteudosConcluidos());
